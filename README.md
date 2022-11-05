@@ -16,7 +16,7 @@
 
 ## 🈸 Projeto
 
-NLW-Copa é um projeto com o objetivo de realizar um bolão da copa.
+NLW-Copa é um projeto com o objetivo de realizar um bolão da copa feito no evento NLW Copa da Rocketseat.
 
 ## 📽️ Demonstração
 
